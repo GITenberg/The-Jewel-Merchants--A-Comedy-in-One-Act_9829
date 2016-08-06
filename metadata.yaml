@@ -1,0 +1,33 @@
+_repo: The-Jewel-Merchants--A-Comedy-in-One-Act_9829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cabell, James Branch
+    alias: Cabell, Branch
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '166'
+    url: http://www.gutenberg.org/2009/agents/166
+    wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
+description: This 1921 play, subtitled A Comedy in One Act, is Cabell's only published
+  play script. The drama is based on the short story Balthazar's Daughter that originally
+  appeared in Cabell's 1916 collection, The Certain Hour . In his prologue, the author
+  confesses that the play lacks moral fervor and hopes it will corrupt no reader irretrievably.
+gutenberg_bookshelf:
+- One Act Plays
+- Fantasy
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PS'
+- !lcsh 'Drama'
+- GITenberg
+title: 'The Jewel Merchants: A Comedy in One Act'
+url: http://www.gutenberg.org/ebooks/9829
